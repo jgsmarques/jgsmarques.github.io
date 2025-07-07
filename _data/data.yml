@@ -21,7 +21,7 @@ sidebar:
   linkedin: jgsmarques
   # xing: alandoe
   github: jgsmarques
-  telegram: jgmarques
+  # telegram: jgmarques
   # gitlab:
   # bitbucket:
   twitter: '@jgsmarques'
@@ -57,10 +57,13 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    I have been working in IT since I completed my MSc in 2011. I started
-    as a Software Developer at Safira and I am now a Software Architect
-    at KPMG Portugal, where I focus mostly on event driven
-    microservices architectures.
+    Pragmatic, hands-on solutions architect with 12 years of experience. 
+    I specialise in building event-driven platforms for the banking industry, 
+    with a strong focus on compliance and regulatory solutions. 
+    As Director at KPMG Portugal, I lead a 20-person product and delivery team developing 
+    and delivering products that help banks meet demanding regulatory requirements from financial 
+    authorities. My work bridges technology and compliance, ensuring robust, scalable solutions 
+    in highly-regulated environments.
 
 education:
   title: Education
@@ -79,169 +82,116 @@ education:
 experiences:
   title: Experience
   info:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Solutions Architect (Senior Manager / Director)
+      time: 2020 - 2024
+      company: KPMG Portugal, Lisbon
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        In 2020, I shifted my focus from IBM solutions to a more challenging role as an Architect in an
+        emerging area related with event-driven architectures. I worked for a few months in the design of
+        Sapphirus, a new product in KPMG Portugal, and by the end of 2020 I was leading a team in a 
+        leading bank in Portugal to implement a CoE (Centre of Excellence) for event-driven architectures, 
+        using Kafka as the main technology. By the end of 2021, I started to focus only on the design and
+        development of Sapphirus, and have been the leading architect of the product since then. I have
+        been responsible for the technical architecture, design and development of the product, as well as
+        the delivery of multiple projects in the banking industry using Sapphirus as the main technology.
+        As a result of this work, I was promoted to Director in 2024.
+        My main responsibilities include:
+          - Technical architecture design
+          - Supporting infrastructure and cloud architecture teams
+          - Product development and delivery
+          - Team leadership and mentoring
+          - CI/CD pipeline implementation and DevOps practices
+          - Security and compliance oversight
+          
+    - role: Senior Advisor to Manager
+      time: 2014 - 2020
+      company: KPMG Portugal, Lisbon
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
+        Managed the delivery IBM BPM and IIB solutions in the banking industry in Europe and Angola;
+        After KPMG Portugal acquired Safira in 2014, I continued to work with the IBM stack, both
+        for process automation and integration solutions. With time, I started managing small teams, and by
+        2020 I was managing the client realtionships and the delivery of multiple projects, dealing directly
+        with C-level executives.
+        My main responsibilities included:
+          - Client relationship management
+          - Project delivery management
+          - Team leadership and mentoring
+          - Business development and proposal writing
+          - Technical architecture design
+          - Stakeholder communication
+    - role: Software Developer to Software Engineer
       time: 2012 - 2014
-      company: Amazon, London
+      company: Safira, Lisbon
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Delivered IBM BPM solutions in the banking industry in Europe;
+        Started as a Software Developer and worked my way to Software Engineer in 2014.
+        My main responsibilities included:
+          - Design and development of BPM solutions
+          - Integration with legacy systems
+          - Performance tuning and optimization
+          - Supporting and maintaining production systems
+          - Mentoring junior developers
 
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
   title: Projects
   intro: >
-    You can list your side projects in this
-    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    Below are a few selected examples of projects I have worked on in the past few years. 
+    These projects showcase my expertise, leadership, and the impact of my work in delivering 
+    solutions for the banking and compliance sectors.
+
   assignments:
-    - title: Velocity
-      link: "#hook"
-      tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    - title: Event-Driven CoE @ Portuguese Retail Bank (2020 - 2021)
+      tagline: |
+        Led KPMG's 6-person team in partnership with the bank's architects to implement a full 
+        event-driven Center of Excellence, enabling the adoption of Kafka-based architectures 
+        on a private OpenShift cloud. Delivered 5 use cases to production in under a year, 
+        processing over 1 million events per second. Leveraged technologies such as Kafka, 
+        Spring Boot, IBM CDC, and MongoDB to implement patterns like core banking offload and 
+        event-driven enablement for legacy applications. Overcame challenges in accessing core 
+        banking data (MIPS) by using CDC, significantly reducing mainframe resource consumption.
 
-    - title: DevStudio
-      link: "#"
-      tagline: "A responsive website template designed to help web developers/designers market their services."
+    - title: Sapphirus @ KPMG Portugal (2020 - Present)
+      tagline: |
+        Designed and led the development of a cloud-ready, event-driven platform for compliance-based 
+        managed services, now used in ~10 client projects. The platform features highly configurable 
+        data models and rules, automated decision-making, document curation and extraction, and 
+        integration with third-party data sources. Built on top of Kafka using open source technologies.
+        Currently lead a 30-person team to continue develop the product and deliver projects.
+        The solution can reduce end-to-end process times by up to 75% with great cost reduction.
 
-    - title: Tempo
-      link: "#"
-      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    - title: Swiss Bank Merger (Sep 2023 - Present)
+      tagline: |
+        Leading a 10-person team to deliver a migration and remediation process for millions of 
+        clients as part of the merger of two major Swiss banks. Built on top of Sapphirus, the 
+        solution manages complex customer remediation workflows and generates highly 
+        customized customer communications under strict regulatory requirements and tight timelines. 
+        The approach enabled rapid time-to-market and adaptability to the client's global operations, 
+        contributing to the project's ongoing success.
 
-    - title: Atom
-      link: "#"
-      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-    - title: Delta
-      link: "#"
-      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-#oss:
-#  title: OSS Contributions
-#  intro: >
-#    You can list your open source software contributions in this
-#    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#  contributions:
-#    - title: Tempo
-#      link: "#"
-#      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#skills:
+#    title: Skills &amp; Proficiency
 #
-#    - title: Atom
-#      link: "#"
-#      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#    toolset:
+#      - name: Python & Django
+#        level: 98%
 #
-#    - title: Delta
-#      link: "#"
-#      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#      - name: Javascript & jQuery
+#        level: 98%
+#
+#      - name: Angular
+#        level: 98%
+#
+#      - name: HTML5 & CSS
+#        level: 95%
+#
+#      - name: Ruby on Rails
+#        level: 85%
+#
+#      - name: Sketch & Photoshop
+#        level: 60%
 
-publications:
-  title: Publications
-  #intro: |
-  #  You can list your publications in this section. Lorem ipsum dolor sit
-  #  amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-  #  bibendum fringilla a eu lectus.
-  papers:
-    - title: Simulação dinâmica da infecção por VIH-1, com incorporação de fármacos, adesão, e resistência à terapêutica
-      #link: "#"
-      authors: João Marques, Susana Vinga, João Miranda Lemos, Emília Valadas, Ana Filipa Sutre
-      conference: 12th National Meeting on Infectology Update, Porto, Portugal, 2011
-
-    - title: "Local Identifiability of a HIV-1 Infection Model using a Sensitivity Approach"
-      #link: "#"
-      authors: João Marques, Susana Vinga, João Miranda Lemos
-      conference: Eighth International Workshop on Computational Systems Biology, WCSB 2011, Zurich, Switzerland
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
+#footer: >
+#    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
 #footer: >
 #    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
