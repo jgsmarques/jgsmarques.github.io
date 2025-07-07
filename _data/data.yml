@@ -9,7 +9,7 @@ sidebar:
   # Profile information
   name: João Marques
   tagline: Software Architect
-  avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  avatar: profile.png  # Place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   birthdate: November 1988
@@ -17,15 +17,15 @@ sidebar:
   phone: (+351) 937564302
   timezone: Europe/Lisbon
   citizenship: Portuguese
-  # website: blog.webjeda.com #do not add http://
+  # website: blog.webjeda.com # Do not add http://
   linkedin: jgsmarques
   # xing: alandoe
   github: jgsmarques
   # telegram: jgmarques
   # gitlab:
   # bitbucket:
-  twitter: '@jgsmarques'
-  stack-overflow: '3688552/jgsmarques' # Number/Username, e.g. 123456/alandoe
+  #twitter: '@jgsmarques'
+  #stack-overflow: '3688552/jgsmarques' # Number/Username, e.g. 123456/alandoe
   # codewars:
   # goodreads: # Number-Username, e.g. 123456-alandoe
   pdf: "assets/files/João Marques CV.pdf"
@@ -42,28 +42,16 @@ sidebar:
       - idiom: French
         level: B1 Level
 
-  #interests:
-  #  title: Interests
-  #  info:
-  #    - item: Climbing
-  #      link:
-
-  #    - item: Snowboarding
-  #      link:
-
-  #    - item: Cooking
-  #      link:
-
 career-profile:
   title: Career Profile
   summary: |
     Pragmatic, hands-on solutions architect with 12 years of experience. 
     I specialise in building event-driven platforms for the banking industry, 
     with a strong focus on compliance and regulatory solutions. 
-    As Director at KPMG Portugal, I lead a 20-person product and delivery team developing 
-    and delivering products that help banks meet demanding regulatory requirements from financial 
+    As Director at KPMG Portugal, I lead a 20-person product and delivery team that develops 
+    and delivers products to help banks meet demanding regulatory requirements from financial 
     authorities. My work bridges technology and compliance, ensuring robust, scalable solutions 
-    in highly-regulated environments.
+    in highly regulated environments.
 
 education:
   title: Education
@@ -78,7 +66,6 @@ education:
       university: Instituto Superior Técnico, Universidade Técnica de Lisboa
       time: 2006 - 2009
 
-
 experiences:
   title: Experience
   info:
@@ -86,14 +73,14 @@ experiences:
       time: 2020 - 2024
       company: KPMG Portugal, Lisbon
       details: |
-        In 2020, I shifted my focus from IBM solutions to a more challenging role as an Architect in an
-        emerging area related with event-driven architectures. I worked for a few months in the design of
-        Sapphirus, a new product in KPMG Portugal, and by the end of 2020 I was leading a team in a 
-        leading bank in Portugal to implement a CoE (Centre of Excellence) for event-driven architectures, 
-        using Kafka as the main technology. By the end of 2021, I started to focus only on the design and
-        development of Sapphirus, and have been the leading architect of the product since then. I have
-        been responsible for the technical architecture, design and development of the product, as well as
-        the delivery of multiple projects in the banking industry using Sapphirus as the main technology.
+        In 2020, I shifted my focus from IBM solutions to a more challenging role as an architect in an
+        emerging area related to event-driven architectures. I spent a few months designing
+        a new product at KPMG Portugal, and by the end of 2020, I was leading a team at a 
+        leading bank in Portugal to implement a Centre of Excellence (CoE) for event-driven architectures, 
+        using Kafka as the main technology. By the end of 2021, I began focusing solely on the design and
+        development of this product and have been the lead architect since then. I have
+        been responsible for the technical architecture, design, and development of the product, as well as
+        the delivery of multiple projects in the banking industry using this technology.
         As a result of this work, I was promoted to Director in 2024.
         My main responsibilities include:
           - Technical architecture design
@@ -107,10 +94,10 @@ experiences:
       time: 2014 - 2020
       company: KPMG Portugal, Lisbon
       details: |
-        Managed the delivery IBM BPM and IIB solutions in the banking industry in Europe and Angola;
+        Managed the delivery of IBM BPM and IIB solutions in the banking industry in Europe and Angola.
         After KPMG Portugal acquired Safira in 2014, I continued to work with the IBM stack, both
-        for process automation and integration solutions. With time, I started managing small teams, and by
-        2020 I was managing the client realtionships and the delivery of multiple projects, dealing directly
+        for process automation and integration solutions. Over time, I started managing small teams, and by
+        2020 I was managing client relationships and the delivery of multiple projects, dealing directly
         with C-level executives.
         My main responsibilities included:
           - Client relationship management
@@ -119,19 +106,19 @@ experiences:
           - Business development and proposal writing
           - Technical architecture design
           - Stakeholder communication
+
     - role: Software Developer to Software Engineer
       time: 2012 - 2014
       company: Safira, Lisbon
       details: |
-        Delivered IBM BPM solutions in the banking industry in Europe;
-        Started as a Software Developer and worked my way to Software Engineer in 2014.
+        Delivered IBM BPM solutions in the banking industry in Europe.
+        Started as a Software Developer and progressed to Software Engineer in 2014.
         My main responsibilities included:
           - Design and development of BPM solutions
           - Integration with legacy systems
           - Performance tuning and optimization
           - Supporting and maintaining production systems
           - Mentoring junior developers
-
 
 projects:
   title: Projects
@@ -143,9 +130,9 @@ projects:
   assignments:
     - title: Event-Driven CoE @ Portuguese Retail Bank (2020 - 2021)
       tagline: |
-        Led KPMG's 6-person team in partnership with the bank's architects to implement a full 
-        event-driven Center of Excellence, enabling the adoption of Kafka-based architectures 
-        on a private OpenShift cloud. Delivered 5 use cases to production in under a year, 
+        Led KPMG's 6-person team in partnership with the bank's architects to implement a 
+        fully event-driven Centre of Excellence, enabling the adoption of Kafka-based architectures 
+        on a private OpenShift cloud. Delivered five use cases to production in under a year, 
         processing over 1 million events per second. Leveraged technologies such as Kafka, 
         Spring Boot, IBM CDC, and MongoDB to implement patterns like core banking offload and 
         event-driven enablement for legacy applications. Overcame challenges in accessing core 
@@ -154,19 +141,19 @@ projects:
     - title: Sapphirus @ KPMG Portugal (2020 - Present)
       tagline: |
         Designed and led the development of a cloud-ready, event-driven platform for compliance-based 
-        managed services, now used in ~10 client projects. The platform features highly configurable 
+        managed services, now used in approximately 10 client projects. The platform features highly configurable 
         data models and rules, automated decision-making, document curation and extraction, and 
         integration with third-party data sources. Built on top of Kafka using open source technologies.
-        Currently lead a 30-person team to continue develop the product and deliver projects.
-        The solution can reduce end-to-end process times by up to 75% with great cost reduction.
+        I currently lead a 30-person team to continue developing the product and delivering projects.
+        The solution can reduce end-to-end process times by up to 75% with significant cost reduction.
 
     - title: Swiss Bank Merger (Sep 2023 - Present)
       tagline: |
-        Leading a 10-person team to deliver a migration and remediation process for millions of 
+        Lead a 10-person team to deliver a migration and remediation process for millions of 
         clients as part of the merger of two major Swiss banks. Built on top of Sapphirus, the 
         solution manages complex customer remediation workflows and generates highly 
         customized customer communications under strict regulatory requirements and tight timelines. 
-        The approach enabled rapid time-to-market and adaptability to the client's global operations, 
+        This approach enabled rapid time-to-market and adaptability to the client's global operations, 
         contributing to the project's ongoing success.
 
 #skills:
@@ -192,6 +179,9 @@ projects:
 #        level: 60%
 
 #footer: >
+#    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+#footer: >
+#    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
 #    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
 #footer: >
 #    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
