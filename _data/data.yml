@@ -8,11 +8,10 @@ sidebar:
 
   # Profile information
   name: João Marques
-  tagline: Solutions Architect
+  tagline: Solutions Architect (Director Level)
   avatar: profile.png  # Place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  birthdate: November 1988
   email: joao.gsilva.marques@gmail.com
   phone: (+351) 937564302
   timezone: Europe/Lisbon
@@ -41,14 +40,25 @@ sidebar:
         level: C1 Level
       - idiom: French
         level: B1 Level
+  
+  interests:
+    title: Skills
+    info:
+    - item: "**Architecture:** Event-Driven, Microservices, Cloud-Native"
+    - item: "**Cloud:** Azure, OpenShift"
+    - item: "**Programming:** Java, Javascript, Typescript"
+    - item: "**Frameworks:** Spring Boot, Node.js, NestJS, Angular, NextJS, React"
+    - item: "**Databases:** MongoDB, MSSQL, MySQL, PostgreSQL, Redis"
+    - item: "**DevOps:** GitLab CI/CD, Docker, Kubernetes, Helm"
 
 career-profile:
   title: Career Profile
   summary: |
-    Pragmatic, hands-on solutions architect with 12 years of experience. 
-    I specialise in building event-driven platforms for the banking industry, 
-    with a strong focus on compliance and regulatory solutions. 
-    As Director at KPMG Portugal, I lead a 20-person product and delivery team that develops 
+    **Pragmatic, hands-on solutions architect with 12 years of experience, 
+    specialised in building event-driven platforms for the banking industry, 
+    with a strong focus on compliance and regulatory solutions.**
+
+    As Director at KPMG Portugal, I lead a 20-person team that develops 
     and delivers products to help banks meet demanding regulatory requirements from financial 
     authorities. My work bridges technology and compliance, ensuring robust, scalable solutions 
     in highly regulated environments.
